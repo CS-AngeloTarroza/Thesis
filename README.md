@@ -1,6 +1,6 @@
 # Thesis
 Download Files -->
-Go to google collab -->
+Go to google colab -->
 CLICK CODE -->
 Change runtime type to GPU -->
 Paste the RoBerta Code -->
